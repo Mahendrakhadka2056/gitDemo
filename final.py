@@ -1,1 +1,2 @@
-print('This is new file for a git repo')
+a = open('mahendra.txt')
+print(a.read())
