@@ -3,4 +3,4 @@ class add:
     b = 10
     c = a+b
     print(c)
-a = add()
+ma = add()
